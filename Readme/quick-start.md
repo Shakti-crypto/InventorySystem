@@ -4,7 +4,7 @@
 
 You can create items easily using the Item Creator Window:
 
-![image](https://github.com/Shakti-crypto/InventorySystem/blob/main/Readme/Images/InventoryCreator.png)
+![image](https://github.com/Shakti-crypto/InventorySystem/blob/main/Readme/Images/ItemCreator.png)
 
 - Go to Tools > Inventory > Item Creator Window
 - Fill in the item details (Name, Type, Stats, Icon, etc.).
