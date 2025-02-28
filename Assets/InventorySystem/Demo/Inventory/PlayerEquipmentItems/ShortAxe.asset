@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7791c0c974fa8e4d811da285ae671e7, type: 3}
+  m_Name: ShortAxe
+  m_EditorClassIdentifier: 
+  itemName: ShortAxe
+  icon: {fileID: 21300000, guid: 25777050fb2f8f245b1abf383f72d167, type: 3}
+  itemType: {fileID: 11400000, guid: a769b2d19df195649b0511da693e83f9, type: 2}
+  isStackable: 0
+  stackableAmount: 1
+  cost: 300
+  undeletableItem: 0
+  pickupPrefab: {fileID: 6293268514845021589, guid: 1d75d183f868e554c9bf1f3816ca85fe,
+    type: 3}

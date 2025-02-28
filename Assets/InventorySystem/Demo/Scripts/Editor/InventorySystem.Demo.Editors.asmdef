@@ -1,0 +1,18 @@
+{
+    "name": "InventorySystem.Demo.Editors",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cf59c16b53edc904d9f0aaef4cd446b5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0edce99c8c505e741be2663477b1dcbe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LT Avocado
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b700e7514554c54b8491b001db7ea7a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7791c0c974fa8e4d811da285ae671e7, type: 3}
+  m_Name: Shield2
+  m_EditorClassIdentifier: 
+  itemName: Shield2
+  icon: {fileID: 21300000, guid: 3a3ad9527696eaa4c9f269e467ca1fed, type: 3}
+  itemType: {fileID: 11400000, guid: 426ae8dba34bbc046a5fbe054d3363d1, type: 2}
+  isStackable: 0
+  stackableAmount: 1
+  cost: 500
+  undeletableItem: 0
+  pickupPrefab: {fileID: 3162612598857390696, guid: a7c9f6ade3ea2db4680192b958be9df5,
+    type: 3}

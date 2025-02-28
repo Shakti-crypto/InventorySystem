@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20b408e340826db4bb416f7adf73acef, type: 3}
+  m_Name: PlayerInventory
+  m_EditorClassIdentifier: 
+  fixedSlots: 1
+  maxNumberOfSlot: 20
+  savePath: /PlayerInventory.save
+  inventorySlots:
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: 6555a9a72bec9974fbd6c8900e86f388, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: ArmorSetA_Helmet
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: 81342bf20c5ee044faf7c45a9ec7ba36, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: ArmorSetA_Chest
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: f298f4635678d23489b6758fd68be6db, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: ArmorSetA_Legs
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: cb3d2cda34229734ba6b1f0c04c8e01f, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: ArmorSetA_Boots
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: 28275294ac5a0484db72a400b75c443b, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: LongSword
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: 80d593ad80e137e41a713c3bda03799e, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: Shield1
+    amount: 3
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: b72ddc5bd1ccd7549a8586f439fc1d64, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: Apple
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  database: {fileID: 11400000, guid: bf17e37e4f1ddd84d9a92e6ddde5fb11, type: 2}

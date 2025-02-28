@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20b408e340826db4bb416f7adf73acef, type: 3}
+  m_Name: Armorer
+  m_EditorClassIdentifier: 
+  fixedSlots: 0
+  maxNumberOfSlot: 20
+  savePath: /Merchant1Inventory.save
+  inventorySlots:
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: 7c9cb57f8ff92574089d899a9b18d228, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: ArmorSetC_Helmet
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: 9e72e3b7b7e2aa84fb764512e672c92f, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: ArmorSetC_Chest
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: c73f7c543e00e524092626d9bc8a91c2, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: ArmorSetC_Legs
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  - inventorySO: {fileID: 0}
+    item: {fileID: 11400000, guid: 8b4b51736f967b94eb2d54df626883b3, type: 2}
+    slotUI:
+      icon: {fileID: 0}
+      amount: {fileID: 0}
+      cost: {fileID: 0}
+      eventTrigger: {fileID: 0}
+    itemID: ArmorSetC_Boots
+    amount: 1
+    itemType: {fileID: 0}
+    testing: 0
+  database: {fileID: 11400000, guid: bf17e37e4f1ddd84d9a92e6ddde5fb11, type: 2}
