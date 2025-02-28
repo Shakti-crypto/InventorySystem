@@ -2,6 +2,8 @@
 
 A modular and easy-to-use Inventory System for Unity based on Scriptable Objects.
 
+![image](https://github.com/Shakti-crypto/InventorySystem/blob/main/Readme/Images/InventorySystem.png)
+
 This system is designed to let designers and developers easily create and manage inventory systems without writing code. It provides powerful tools to create items, inventories, and UI setups directly from the Unity Editor.
 
 **Features:**
